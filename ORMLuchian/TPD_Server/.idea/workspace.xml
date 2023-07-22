@@ -9,9 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4295d896-685c-4b36-b8ff-bf1a2f2c11d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.gitattributes" afterDir="false" />
-    </list>
+    <list default="true" id="4295d896-685c-4b36-b8ff-bf1a2f2c11d3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +35,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/ORM/ORMLuchian/TPD_Server",
+    "last_opened_file_path": "C:/ORM-main (3)/ORM-main/TPD_Server",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -145,6 +143,7 @@
       <workItem from="1690024621633" duration="61000" />
       <workItem from="1690024745680" duration="41000" />
       <workItem from="1690024901146" duration="176000" />
+      <workItem from="1690025366224" duration="724000" />
     </task>
     <servers />
   </component>
